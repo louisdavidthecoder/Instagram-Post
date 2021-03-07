@@ -1,0 +1,56 @@
+body {
+background-color:black;
+}
+
+.wrapper{
+margin: 0 auto;
+width: 400px;
+background-color: white;
+}
+
+
+
+
+.header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 5px;
+
+
+}
+.htmltext p{
+font-size: 12px;
+padding-left: 8px;
+}
+
+.header-left{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+width: 4%
+}
+
+.logo{
+    font-size: 30px;
+}
+.header-right{
+ width: 4%  
+}
+
+.likes{
+display:flex;
+justify-content: space-between;
+padding: 5px;
+}
+
+.likedby{
+padding: 5px;    
+}
+
+.description{
+    padding: 5px;
+}
